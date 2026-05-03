@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Lead Programmer who lives at the intersection of full-stack engineering and market research strategy. With over 4 years of experience, I specialize in translating complex research needs into high-performance technical roadmaps. I don't just write code; I build the systems that make data make sense. You can call me Jack of all Trades but I'm on the way to master some :)
+I’m a Lead Programmer who lives at the intersection of full-stack engineering and market research strategy, currently working as a Technical Project Manager. With over 4 years of experience, I specialize in translating complex research needs into high-performance technical roadmaps. I don't just write code; I build and design the systems that make data make sense. You can call me Jack of all Trades but I'm on the way to master some :)
 
 
 ## 🌐 Socials:
